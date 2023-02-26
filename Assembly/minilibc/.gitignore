@@ -1,0 +1,8 @@
+/libasm.so
+/a.out
+
+*.o
+*gcda
+*.gcno
+/unit_tests
+vgcore*
