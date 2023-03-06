@@ -1,0 +1,15 @@
+# Binaries
+nanotekspice
+nanotekspice.debug
+nanotekspice.test
+
+# Build
+*.o
+
+# Debug
+vgcore.*
+
+# Tests and samples
+samples/
+
+.idea/
