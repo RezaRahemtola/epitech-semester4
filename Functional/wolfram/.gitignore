@@ -1,0 +1,10 @@
+# Stack
+.stack-work/
+*~
+/test/coverage
+
+# Config
+/tools
+
+# Binary
+wolfram
