@@ -1,0 +1,17 @@
+# Binaries
+arcade
+
+# Build
+*.o
+
+# Debug
+vgcore.*
+
+# Display libraries
+/lib/arcade_ncurses.so
+/lib/arcade_sfml.so
+/lib/arcade_sdl2.so
+
+# Game libraries
+/lib/arcade_snake.so
+/lib/arcade_nibbler.so
