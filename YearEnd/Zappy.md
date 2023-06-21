@@ -1,0 +1,1 @@
+This project is hosted on [its own repository](https://github.com/RezaRahemtola/Zappy).
